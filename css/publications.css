@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather";
+  background-color: #DCD7C9;}
+
+.top-container {
+  position: static;
+  text-align: center;}
+
+.top-img {
+  height: 500px;
+  width: 100%;}
+
+.name {
+      position: absolute;
+      top: 30%;
+      left: 49%;
+      transform: translate(-50%, -50%);
+      font-family: "acme";
+      font-size: 300%;
+      color: white;}
+
+.bottom-container{
+        width: 80%;
+        margin: 50px auto 50px auto;
+        text-align: left;
+        line-height: 1;}
+
+hr {
+      border-style: none;
+      border-top-style: solid;
+      width: 90%;
+      border-width:5px;
+      border-color: #E7AB79;}
+
+.footer {
+        background-color: #4C3A51;
+        padding-top: 20px;
+        padding-bottom: 10px;
+        color: #DCD7C9;}
+
+.footer-link {color: #DCD7C9}
